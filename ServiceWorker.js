@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-Budget Guradian-1.0";
 const contentToCache = [
     "Build/6ee980cb1bc813955ed177ea24413bd2.loader.js",
     "Build/52978507bc48ca8a90802c7fdce7da3b.framework.js",
-    "Build/c431052549760c77b03501ee4bdfb725.data",
+    "Build/5b49a2a6a2e0c7834a362e1bcdc24536.data",
     "Build/94228a890276d4da5feb7612eb57af7b.wasm",
     "TemplateData/style.css"
 
